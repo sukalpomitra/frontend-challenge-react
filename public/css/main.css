@@ -1,0 +1,54 @@
+table {color: black;}
+
+.angular-google-map-container { height: 400px; }
+
+.bg-dashboard {
+    background-color: #6a6a6a;
+}
+
+.bg-dashboard h1 {
+	margin-top: 0;
+    margin-bottom: 0;
+    text-transform: uppercase;
+    font-weight: 700;
+	text-align:center;
+	color: white
+}
+
+.ng-invalid.ng-dirty {
+	border-color: #FA787E
+}
+
+.ng-valid.ng-dirty {
+	border-color: #78FA89
+}
+
+#instatype .input-typeahead {
+    width: 100%;
+    margin: 0;
+    font-size: 2em;
+    padding-left: 0.5em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    border-radius: 0;
+}
+
+.form-control-alt{
+    width: 100%;
+    margin: 0;
+    font-size: 2em;
+    padding-left: 0.5em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    border-radius: 0;
+}
+
+.btn {
+	width: 100%;
+    margin: 0;
+    font-size: 2em;
+    padding-left: 0.5em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    border-radius: 0;
+}
